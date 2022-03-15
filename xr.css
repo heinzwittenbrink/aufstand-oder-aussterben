@@ -60,3 +60,12 @@ h1 {font-size: 8em;}
 
 .xr-pink {background-color: #FF1493; }
 .xr-yellow {background-color: yellow; }
+
+.small-heading h1 {font-family: Crimson; font-size: 3em;
+  text-transform: none;
+  position: relative;
+
+                    top: -240px;
+                    left: -25%;
+                  width: 1600px;
+                text-align: left;}
