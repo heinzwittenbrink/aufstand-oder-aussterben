@@ -52,7 +52,7 @@ author: Timna, Heinz
 ![Das Sonnenlicht erwärmt die Erdoberfläche. Die Wärme wird in infrarote, diffuse Strahlung umgewandelt. Einige dieser Infrarotstrahlen verlassen die Atmosphäre, andere treffen auf Treibhausgasmoleküle und erwärmen die unteren Teile der Atmosphäre. Animation: Yannick Urs Schillinger Quelle:https://edu.lu.lv/mod/book/view.php?id=39258](pics/treibhausgase-animation-schillinger1.gif)
 
 
-#
+# Fossile Brennstoffe entscheiden {.small-heading data-background=#ed9bc4}
 
 <iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2021.s3.eu-west-2.amazonaws.com/climate-justice/cumulative-emissions/land-use-fossil-emissions.html" width="770px" height="550px"></iframe><span style="display:block; height:22px; max-width:770px;"><a href="https://www.carbonbrief.org" target="_blank"><img src="https://s3.eu-west-2.amazonaws.com/cbhighcharts2019/cb-logo-highcharts.svg" style="width: 22px; height: 22px; margin-top: 2px; margin-bottom: 2px; float:right; background-repeat: no-repeat; background-size: contain;"/></a></span>
 
@@ -67,21 +67,28 @@ Annual global CO2 emissions from fossil fuels and cement (dark grey) as well as 
 
 # CO2 treibt die Temperaturen nach oben {data-background="pics/co2-temperaturen.png"  .small-heading}
 
-#
+# Die Erhitzung folgt den Prognosen exakt {data-background=#ed9bc4 .small-heading}
 
 ![Veränderungen der globalen Oberflächentemperatur im Vergleich zu 1850-1900. (a) Veränderung der globalen Oberflächentemperatur (Zehnjahresdurchschnitt) wie rekonstruiert (1-2000) und beobachtet (1850-2020); (b) Veränderung der globalen Oberflächentemperatur (Jahresdurchschnitt) wie beobachtet und simuliert unter Verwendung menschlicher und natürlicher Faktoren (hellbraun) und nur natürlicher Faktoren (grünlich) (beide 1850-2020). (Bildnachweis: Abbildung SPM.1 aus AR6 WGI Summary of Policymakers, IPCC)](pics/ipcc-ar6-surface-temperatures.png)
 
 
-#
+# Wir haben kein CO2-Budget mehr {.small-heading data-background=#75d0f1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zP0L69ielU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Nichthandeln beschleunigt die Katastrophe {.small-heading data-background=#f7ee6a}
+
+![](pics/CAT-Thermometer-2021.11.png){width="70%"}
+
+# { .without-heading data-background=#c80082}
+
+<span style="font-family: 'FucXedLatin'; color: white;">"Today’s IPCC Working Group 1 report is a code red for humanity.  The alarm bells are deafening, and the evidence is irrefutable:  greenhouse‑gas emissions from fossil-fuel burning and deforestation are choking our planet and putting billions of people at immediate risk.  Global heating is affecting every region on Earth, with many of the changes becoming irreversible.</span> ([António Guterres](https://www.un.org/press/en/2021/sgsm20847.doc.htm "Secretary-General Calls Latest IPCC Climate Report ‘Code Red for Humanity’, Stressing ‘Irrefutable’ Evidence of Human Influence | Meetings Coverage and Press Releases"))
 
 # Warming Stripes
 
 Ed Hawkins
 
-# Code red for humanity
+# Code red for huma
 
 # Etwas mehr Wärme macht einen großen Unterschied
 
