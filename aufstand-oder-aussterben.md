@@ -4,7 +4,10 @@ date: 2022-03-19
 author: Timna, Heinz
 ---
 
-# Aufstand oder Aussterben<br/> (Und: Kann ich etwas tun?) {data-background=#F7EE6A }
+# Wann wenn nicht wir? {data-background=#F7EE6A }
+
+![](pics/xr-logo.png)
+
 
 # Warum bist du heute hier? {data-background="#bed276"}
 
@@ -19,10 +22,10 @@ author: Timna, Heinz
 
 <p style="font-size:6em; font-family: 'FucXedLatin', Helvetica, Arial, Lucida, sans-serif;">Schock Verleugnung Kummer Apathie Wut <span style="color: white; font-family: 'FucXedLatin'">Erleichterung</span></p>
 
-# Gerechtigkeit für alle: {data-background=#14aa37 .small-heading}
+#  {data-background=#14aa37 .without-heading}
 
 <p style="font-size: 3em;">Klimagerechtigkeit – Wirtschaftliche Gerechtigkeit – Umweltgerechtigkeit</p>
-<p style="font-size:6em; font-family: 'FucXedLatin', Helvetica, Arial, Lucida, sans-serif; color: white">Macht</p>
+<p style="font-size:6em; font-family: 'FucXedLatin', Helvetica, Arial, Lucida, sans-serif; line-height:0.5;">Gerechtigkeit <span style="color: white; font-family: 'FucXedLatin'">Macht<span></p>
 <p style="font-size: 3em;">Rassengerechtigkeit – Soziale Gerechtigkeit – Gendergerechtigkeit</p>
 
 # Worum geht es in diesem Talk? {data-background=#ffc11e  .small-heading}
@@ -36,7 +39,7 @@ author: Timna, Heinz
 
 # Das Erdsystem erhält uns {data-background="pics/erde-schwarzer-hintergrund.png" .white-heading}
 
-# Wir sind dabei es zu zerstören {data-background=#000000 .white-small-heading}
+# ... wenn wir Grenzen respektieren {data-background=#000000 .white-small-heading}
 
 ![https://www.wikiwand.com/en/Planetary_boundaries](pics/planetary-boundaries-2015.png)
 
@@ -52,7 +55,16 @@ author: Timna, Heinz
 ![Das Sonnenlicht erwärmt die Erdoberfläche. Die Wärme wird in infrarote, diffuse Strahlung umgewandelt. Einige dieser Infrarotstrahlen verlassen die Atmosphäre, andere treffen auf Treibhausgasmoleküle und erwärmen die unteren Teile der Atmosphäre. Animation: Yannick Urs Schillinger Quelle:https://edu.lu.lv/mod/book/view.php?id=39258](pics/treibhausgase-animation-schillinger1.gif)
 
 
-# Fossile Brennstoffe entscheiden {.small-heading data-background=#ed9bc4}
+
+
+# CO2 treibt die Temperaturen nach oben {data-background="pics/co2-temperaturen.png"  .small-heading}
+
+# Die Erhitzung folgt den Prognosen exakt {data-background=#ed9bc4 .small-heading}
+
+![Veränderungen der globalen Oberflächentemperatur im Vergleich zu 1850-1900. (a) Veränderung der globalen Oberflächentemperatur (Zehnjahresdurchschnitt) wie rekonstruiert (1-2000) und beobachtet (1850-2020); (b) Veränderung der globalen Oberflächentemperatur (Jahresdurchschnitt) wie beobachtet und simuliert unter Verwendung menschlicher und natürlicher Faktoren (hellbraun) und nur natürlicher Faktoren (grünlich) (beide 1850-2020). (Bildnachweis: Abbildung SPM.1 aus AR6 WGI Summary of Policymakers, IPCC)](pics/ipcc-ar6-surface-temperatures.png)
+
+
+# Stop burning things! {.small-heading data-background=#ed9bc4}
 
 <iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2021.s3.eu-west-2.amazonaws.com/climate-justice/cumulative-emissions/land-use-fossil-emissions.html" width="770px" height="550px"></iframe><span style="display:block; height:22px; max-width:770px;"><a href="https://www.carbonbrief.org" target="_blank"><img src="https://s3.eu-west-2.amazonaws.com/cbhighcharts2019/cb-logo-highcharts.svg" style="width: 22px; height: 22px; margin-top: 2px; margin-bottom: 2px; float:right; background-repeat: no-repeat; background-size: contain;"/></a></span>
 
@@ -65,16 +77,13 @@ Annual global CO2 emissions from fossil fuels and cement (dark grey) as well as 
 :::
 
 
-# CO2 treibt die Temperaturen nach oben {data-background="pics/co2-temperaturen.png"  .small-heading}
-
-# Die Erhitzung folgt den Prognosen exakt {data-background=#ed9bc4 .small-heading}
-
-![Veränderungen der globalen Oberflächentemperatur im Vergleich zu 1850-1900. (a) Veränderung der globalen Oberflächentemperatur (Zehnjahresdurchschnitt) wie rekonstruiert (1-2000) und beobachtet (1850-2020); (b) Veränderung der globalen Oberflächentemperatur (Jahresdurchschnitt) wie beobachtet und simuliert unter Verwendung menschlicher und natürlicher Faktoren (hellbraun) und nur natürlicher Faktoren (grünlich) (beide 1850-2020). (Bildnachweis: Abbildung SPM.1 aus AR6 WGI Summary of Policymakers, IPCC)](pics/ipcc-ar6-surface-temperatures.png)
-
-
 # Wir haben kein CO2-Budget mehr {.small-heading data-background=#75d0f1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zP0L69ielU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Europa wird heisser und feuchter {.small-heading data-background=#bed276}
+
+![IPCC AR6 WG1, Regional Factsheet Europe ](pics/ipcc-ar6-projection-europe.png){width="100%"}
 
 # Nichthandeln beschleunigt die Katastrophe {.small-heading data-background=#f7ee6a}
 
@@ -84,9 +93,11 @@ Annual global CO2 emissions from fossil fuels and cement (dark grey) as well as 
 
 <span style="font-family: 'FucXedLatin'; color: white;">"Today’s IPCC Working Group 1 report is a code red for humanity.  The alarm bells are deafening, and the evidence is irrefutable:  greenhouse‑gas emissions from fossil-fuel burning and deforestation are choking our planet and putting billions of people at immediate risk.  Global heating is affecting every region on Earth, with many of the changes becoming irreversible.</span> ([António Guterres](https://www.un.org/press/en/2021/sgsm20847.doc.htm "Secretary-General Calls Latest IPCC Climate Report ‘Code Red for Humanity’, Stressing ‘Irrefutable’ Evidence of Human Influence | Meetings Coverage and Press Releases"))
 
+# { .without-heading}
 
+![](pics/IPCC_AR6_WGII_FigureSPM5.png){width="100%"}
 
-# Rückkopplungen können die Erhitzung verstärken
+# Rückkopplungen können die Erhitzung verstärken {data-background=#dc4f00 .white-heading}
 
 - Weniger Reflexion durch Eis
 - Methananreicherung durch Auftauen von Permafrost
@@ -103,7 +114,7 @@ Annual global CO2 emissions from fossil fuels and cement (dark grey) as well as 
 
 # Das war nur ein Teil des Problems {data-background="pics/xr-symbole-gruen-hintergrund.png" .white-heading}
 
-# Wir zerstören das ganze Erdsystem
+# Wir gefährden das ganze Erdsystem {data-background=#c80082 .white-heading}
 
 # Die Erde hat Land- und Meeres-Ökosysteme. Wir zerstören beide. {data-background="pics/land-meer-oekosysteme-hintergrund.png" .white-small-heading}
 
