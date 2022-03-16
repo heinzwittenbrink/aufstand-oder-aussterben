@@ -166,6 +166,10 @@ Auf der Grundlage von [Has land use pushed terrestrial biodiversity beyond the p
 
 ![](pics/fauna-ernaehrung.png)
 
+# Politik und Wirtschaft beschleunigen die Katastrophen {data-background=#c80082 .white-small-heading}
+
+![](pics/sustento-trends-atmosheric-co2.jpeg){width="50%"}
+
 # Wir haben nur wenige Jahre Zeit! {.small-heading}
 
 ![Stability landscape showing the pathway of the Earth System out of the Holocene and thus, out of the glacial–interglacial limit cycle to its present position in the hotter Anthropocene. Will Steffen et al. PNAS 2018;115:33:8252-8259](pics/stability-landscape-steffen.jpg)
