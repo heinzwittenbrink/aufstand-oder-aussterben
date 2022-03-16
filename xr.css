@@ -58,14 +58,27 @@ text-align: center;}
 
 h1 {font-size: 8em;}
 
+li, p {font-size: 3em;
+      line-height: 1.3}
+
+ul {list-style-type:none}
+
+li {text-align: left;}
+
 .xr-pink {background-color: #FF1493; }
 .xr-yellow {background-color: yellow; }
 
 .small-heading h1 {font-family: Crimson; font-size: 3em;
-  text-transform: none;
-  position: relative;
-
-                    top: -240px;
-                    left: -25%;
-                  width: 1600px;
+      text-transform: none;
                 text-align: left;}
+
+.white-heading h1 {color: white;}
+
+.white-small-heading h1 {font-family: Crimson; font-size: 3em;
+      text-transform: none;
+                text-align: left;
+              color: white;}
+
+.white-small-heading figcaption {color: white;}
+
+.without-heading h1 { display: none; line-height:0;}
