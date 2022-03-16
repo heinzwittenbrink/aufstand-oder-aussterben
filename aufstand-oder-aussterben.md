@@ -84,46 +84,7 @@ Annual global CO2 emissions from fossil fuels and cement (dark grey) as well as 
 
 <span style="font-family: 'FucXedLatin'; color: white;">"Today’s IPCC Working Group 1 report is a code red for humanity.  The alarm bells are deafening, and the evidence is irrefutable:  greenhouse‑gas emissions from fossil-fuel burning and deforestation are choking our planet and putting billions of people at immediate risk.  Global heating is affecting every region on Earth, with many of the changes becoming irreversible.</span> ([António Guterres](https://www.un.org/press/en/2021/sgsm20847.doc.htm "Secretary-General Calls Latest IPCC Climate Report ‘Code Red for Humanity’, Stressing ‘Irrefutable’ Evidence of Human Influence | Meetings Coverage and Press Releases"))
 
-# Warming Stripes
 
-Ed Hawkins
-
-# Code red for huma
-
-# Etwas mehr Wärme macht einen großen Unterschied
-
-# Das Klimachaos ist nur das halbe Problem
-
-# +2° hatten wir nur vor 130.000 Jahren
-
- ... und +4°C vor Jahrmillionen
-
-#
-
-# Die Erhitzung verändert das globale Wetter
-
-
-
-# Die Erhitzung zerstört Gesellschaften
-
-# Folgen der Klimakrise in Österreich 2018
-
-- Tieflagen Ober- und Niederösterreichs bis zu 2,6°C wärmer als 1981-2010
-- 16.4. mehr als 112 mm/m2 Regen in Graz
-- Extreme Dürren im Norden
-- Bis zu 40% weniger Ertrag in der Landwirtschaft
-- Waldzerstörung durch Borkenkäfer
-- Wegen Niedrigwasser 1.003 Gigawattstunden weniger beim Verbund im Juli/August
-
-# Was, wenn wir die Erde weiter aufheizen?
-
-# Folgen von Business as Usual
-
-- Meeresspiegel-Anstieg durch Eisschmelze und thermische Ausdehnung, Überschwemmungen und Sturmfluten
-- Mehr Extremwetter mit SWtürmen, Dürren, Waldbränden, Wüstenbildung und Ernteausfällen
-- Todesfälle durch Hitzestress
-- Hungersnöte, Wassermangel, Erzwungene Migration
-- Krieg
 
 # Rückkopplungen können die Erhitzung verstärken
 
@@ -172,6 +133,16 @@ Ed Hawkins
 
 Vor 10.000 Jahren vs. heute
 
+# { data-background="pics/biodiversity-loss-map-andy-purvis-news.jpg" .without-heading }
+
+::: notes
+
+Karte: [Biodiversity loss breaching safe limits worldwide | Natural History Museum](https://www.nhm.ac.uk/discover/news/2016/july/biodiversity-breaching-safe-limits-worldwide.html "Biodiversity loss breaching safe limits worldwide | Natural History Museum")
+
+Auf der Grundlage von [Has land use pushed terrestrial biodiversity beyond the planetary boundary? A global assessment](https://www.science.org/doi/10.1126/science.aaf2201 "Has land use pushed terrestrial biodiversity beyond the planetary boundary? A global assessment")
+
+:::
+
 # Unsere Kinder werden den Reichtum, den wir geerbt haben, vielleicht nie kennenlernen. { data-background=#14aa37 .small-heading }
 
 ![](pics/megafauna.png)
@@ -187,6 +158,49 @@ Vor 10.000 Jahren vs. heute
 # Wir haben nur wenige Jahre Zeit! {.small-heading}
 
 ![Stability landscape showing the pathway of the Earth System out of the Holocene and thus, out of the glacial–interglacial limit cycle to its present position in the hotter Anthropocene. Will Steffen et al. PNAS 2018;115:33:8252-8259](pics/stability-landscape-steffen.jpg)
+
+<!--
+
+# Warming Stripes
+
+Ed Hawkins
+
+# Code red for huma
+
+# Etwas mehr Wärme macht einen großen Unterschied
+
+# Das Klimachaos ist nur das halbe Problem
+
+# +2° hatten wir nur vor 130.000 Jahren
+
+ ... und +4°C vor Jahrmillionen
+
+#
+
+# Die Erhitzung verändert das globale Wetter
+
+
+
+# Die Erhitzung zerstört Gesellschaften
+
+# Folgen der Klimakrise in Österreich 2018
+
+- Tieflagen Ober- und Niederösterreichs bis zu 2,6°C wärmer als 1981-2010
+- 16.4. mehr als 112 mm/m2 Regen in Graz
+- Extreme Dürren im Norden
+- Bis zu 40% weniger Ertrag in der Landwirtschaft
+- Waldzerstörung durch Borkenkäfer
+- Wegen Niedrigwasser 1.003 Gigawattstunden weniger beim Verbund im Juli/August
+
+# Was, wenn wir die Erde weiter aufheizen?
+
+# Folgen von Business as Usual
+
+- Meeresspiegel-Anstieg durch Eisschmelze und thermische Ausdehnung, Überschwemmungen und Sturmfluten
+- Mehr Extremwetter mit SWtürmen, Dürren, Waldbränden, Wüstenbildung und Ernteausfällen
+- Todesfälle durch Hitzestress
+- Hungersnöte, Wassermangel, Erzwungene Migration
+- Krieg
 
 # Drohendes Massenaussterben
 
@@ -227,3 +241,7 @@ Vor 10.000 Jahren vs. heute
 #
 
 # Wir sind Extinction Rebellion!
+
+
+
+-->
