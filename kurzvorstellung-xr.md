@@ -22,3 +22,7 @@ Unsere Prinzipien und Werte: <https://xrebellion.at/ueber-uns/prinzipien-werte/>
 * Auf Instagram: <https://www.instagram.com/extinctionrebellionaustria/>
 * Bei Telegram: <https://t.me/XRAustria>
 
+#
+
+![](pics/bit.ly_3DSvQvg.png)
+
