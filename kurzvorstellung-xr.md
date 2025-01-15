@@ -1,7 +1,9 @@
 ---
 title: Kurzpräsentation XR
 author: Silvia & Raphael
-theme: white
+date: 2025-01-16
+standalone: true
+embed-resources: true
 ---
 
 <style>
@@ -85,6 +87,10 @@ img {width: 10em; display: inline;}
     
 </style>
 
+# {data-background="#3860aa"}
+![](pics/schmetterling.png)
+
+
 # Wann wenn nicht wir?  {data-background=#F7EE6A }
 
 ![](pics/xr-logo.png)
@@ -114,4 +120,9 @@ Unsere Prinzipien und Werte: <https://xrebellion.at/ueber-uns/prinzipien-werte/>
 # {data-background=#F7EE6A}
 
 ![](pics/bit.ly_3DSvQvg.png)
+
+# {data-background="#3860aa"}
+
+<br/>
+![](pics/schmetterling.png)
 
