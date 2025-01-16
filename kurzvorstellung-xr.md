@@ -1,7 +1,4 @@
 ---
-title: Kurzpräsentation XR
-author: Silvia & Raphael
-date: 2025-01-16
 standalone: true
 embed-resources: true
 ---
@@ -38,7 +35,9 @@ embed-resources: true
 
 
 
-/** .slide-background-content {background-color: #F7EE6A; } **/
+/** .slide-background-content {background-color: #75d0f1; } **/
+
+.backgrounds {background-color: #3860aa !important;}
 
 * {font-family: 'Crimson', Helvetica, Arial, Lucida, sans-serif !important; }
 
@@ -87,8 +86,15 @@ img {width: 10em; display: inline;}
     
 </style>
 
-# {data-background="#3860aa"}
-![](pics/schmetterling.png)
+# Extinction Rebellion {data-background-image="pics/schmetterling.png"}
+
+Silvia & Raphael
+
+16.1.2025
+
+# {data-background=#bfd273}
+![](pics/tiere2.jpg)![](pics/tiere1.jpg)
+
 
 
 # Wann wenn nicht wir?  {data-background=#F7EE6A }
@@ -107,9 +113,6 @@ Unsere Prinzipien und Werte: <https://xrebellion.at/ueber-uns/prinzipien-werte/>
 * Wir pflegen eine regenerative Kultur.
 * Wir arbeiten mit anderen sozialen Bewegungen zusammen.
 
-# {data-background=#F7EE6A }
-![](pics/tiere2.jpg)![](pics/tiere1.jpg)
-
 # Wo findet man uns? :{data-background=#ffc11e .small-heading}
 
 * In Wien: Bei regelmäßigen XR-Cafés und Treffen
@@ -121,7 +124,7 @@ Unsere Prinzipien und Werte: <https://xrebellion.at/ueber-uns/prinzipien-werte/>
 
 ![](pics/bit.ly_3DSvQvg.png)
 
-# {data-background="#3860aa"}
+# {data-background="#c80082"}
 
 <br/>
 ![](pics/schmetterling.png)
